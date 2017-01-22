@@ -1,0 +1,3 @@
+[submodule "learning-to-learn"]
+	path = learning-to-learn
+	url = git@github.com:deepmind/learning-to-learn.git

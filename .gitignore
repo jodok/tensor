@@ -1,0 +1,16 @@
+MANIFEST
+dist/
+.egg-info/
+*.py[co]
+*.egg
+*.egg-info
+build
+eggs
+parts
+bin
+.installed.cfg
+/.idea/
+develop-eggs
+vagrant/demo/.vagrant
+.DS_Store
+pyenv/
